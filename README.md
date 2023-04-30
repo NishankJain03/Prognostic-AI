@@ -40,3 +40,18 @@ The project involves using machine learning algorithms to predict the likelihood
 
 ### Parkinson's Disease Prediction Page
 ![Parkinson's_prediction](https://user-images.githubusercontent.com/85564014/235360135-eeac0ce3-e19d-439c-9b10-d8115628c0b7.jpeg)
+
+# Installation
+
+To run this project on your machine, follow the steps below:
+
+### Clone the repository using the following command:
+
+```bash
+git clone https://github.com/NishankJain03/Prognostic-AI.git
+```
+### Start the application using the following command:
+
+```bash
+streamlit run home.py
+```
